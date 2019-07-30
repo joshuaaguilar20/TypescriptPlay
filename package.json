@@ -1,0 +1,17 @@
+{
+  "name": "typescriptplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "combined.js",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "axios": "^0.19.0",
+    "ts-node": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
