@@ -8,7 +8,7 @@ class Person {
     }
 }
 
-let test = new Person('Joshua');
+var test = new Person('Joshua');
 test.dance('Dancing Bro');
 
 

@@ -5,3 +5,7 @@ module Utility {
         };
     }
 }
+
+/* nameSpace According to Richard 
+    
+*/
