@@ -5,7 +5,7 @@
   "main": "combined.js",
   "dependencies": {
     "@types/es6-promise": "^3.3.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "ts-node": "^8.3.0"
   },
   "devDependencies": {},
